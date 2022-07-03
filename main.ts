@@ -15,7 +15,7 @@ class EDControl {
     }
 }
 
-//% color=#008060 weight=100 icon="\uf185" block="obEasyDriver"
+//% color=#008060 weight=100 icon="\uf013" block="obEasyDriver"
 namespace obEasyDriver {
     let controls: EDControl[] = []
     let minDt: number = 1000
